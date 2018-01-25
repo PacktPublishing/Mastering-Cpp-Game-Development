@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\WiP\WiP\MasterCpp\Chapter 4\ModelExample\App.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WiP\WiP\MasterCpp\Chapter 4\ModelExample\GamePlayScreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WiP\WiP\MasterCpp\Chapter 4\ModelExample\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\WiP\WiP\MasterCpp\Chapter 4\ModelExample\App.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WiP\WiP\MasterCpp\Chapter 4\ModelExample\GamePlayScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\WiP\WiP\MasterCpp\Chapter 4\ModelExample\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2D95F635-1BC8-3B16-BE34-7C9EC746676F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{093BD5C4-8CB7-35C6-BB0B-E90FD268F74B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

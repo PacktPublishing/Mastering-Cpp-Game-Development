@@ -1,0 +1,447 @@
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 3.2.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 3.2.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 3.1.13447 Compatibility Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 3.1.13447 Compatibility Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.13447 Core Profile Context 16.300.2311.0 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.6.0 NVIDIA 388.71 ***
+***   Chipset Vendor : NVIDIA Corporation ***
+***   Rendering Hardware : GeForce GTX 1080 Ti/PCIe/SSE2 ***
+***   OpenGL Version : 4.6.0 NVIDIA 388.71 ***
+***   Chipset Vendor : NVIDIA Corporation ***
+***   Rendering Hardware : GeForce GTX 1080 Ti/PCIe/SSE2 ***
+***   OpenGL Version : 4.5.0 NVIDIA 388.71 ***
+***   Chipset Vendor : NVIDIA Corporation ***
+***   Rendering Hardware : GeForce GTX 1080 Ti/PCIe/SSE2 ***
+***   OpenGL Version : 4.5.0 NVIDIA 388.71 ***
+***   Chipset Vendor : NVIDIA Corporation ***
+***   Rendering Hardware : GeForce GTX 1080 Ti/PCIe/SSE2 ***
+***   OpenGL Version : 4.5.0 NVIDIA 388.71 ***
+***   Chipset Vendor : NVIDIA Corporation ***
+***   Rendering Hardware : GeForce GTX 1080 Ti/PCIe/SSE2 ***
+***   OpenGL Version : 4.5.0 NVIDIA 388.71 ***
+***   Chipset Vendor : NVIDIA Corporation ***
+***   Rendering Hardware : GeForce GTX 1080 Ti/PCIe/SSE2 ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.5.0 NVIDIA 388.71 ***
+***   Chipset Vendor : NVIDIA Corporation ***
+***   Rendering Hardware : GeForce GTX 1080 Ti/PCIe/SSE2 ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.5.0 NVIDIA 388.71 ***
+***   Chipset Vendor : NVIDIA Corporation ***
+***   Rendering Hardware : GeForce GTX 1080 Ti/PCIe/SSE2 ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.6.0 NVIDIA 388.71 ***
+***   Chipset Vendor : NVIDIA Corporation ***
+***   Rendering Hardware : GeForce GTX 1080 Ti/PCIe/SSE2 ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.6.0 NVIDIA 388.71 ***
+***   Chipset Vendor : NVIDIA Corporation ***
+***   Rendering Hardware : GeForce GTX 1080 Ti/PCIe/SSE2 ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.6.0 NVIDIA 388.71 ***
+***   Chipset Vendor : NVIDIA Corporation ***
+***   Rendering Hardware : GeForce GTX 1080 Ti/PCIe/SSE2 ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.6.0 NVIDIA 388.71 ***
+***   Chipset Vendor : NVIDIA Corporation ***
+***   Rendering Hardware : GeForce GTX 1080 Ti/PCIe/SSE2 ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.6.0 NVIDIA 388.71 ***
+***   Chipset Vendor : NVIDIA Corporation ***
+***   Rendering Hardware : GeForce GTX 1080 Ti/PCIe/SSE2 ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.6.0 NVIDIA 388.71 ***
+***   Chipset Vendor : NVIDIA Corporation ***
+***   Rendering Hardware : GeForce GTX 1080 Ti/PCIe/SSE2 ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.6.0 NVIDIA 388.71 ***
+***   Chipset Vendor : NVIDIA Corporation ***
+***   Rendering Hardware : GeForce GTX 1080 Ti/PCIe/SSE2 ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.6.0 NVIDIA 388.71 ***
+***   Chipset Vendor : NVIDIA Corporation ***
+***   Rendering Hardware : GeForce GTX 1080 Ti/PCIe/SSE2 ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 3.1.0 NVIDIA 388.71 ***
+***   Chipset Vendor : NVIDIA Corporation ***
+***   Rendering Hardware : GeForce GTX 1080 Ti/PCIe/SSE2 ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 3.1.0 NVIDIA 388.71 ***
+***   Chipset Vendor : NVIDIA Corporation ***
+***   Rendering Hardware : GeForce GTX 1080 Ti/PCIe/SSE2 ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.1.0 NVIDIA 388.71 ***
+***   Chipset Vendor : NVIDIA Corporation ***
+***   Rendering Hardware : GeForce GTX 1080 Ti/PCIe/SSE2 ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.6.0 NVIDIA 388.71 ***
+***   Chipset Vendor : NVIDIA Corporation ***
+***   Rendering Hardware : GeForce GTX 1080 Ti/PCIe/SSE2 ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.6.0 NVIDIA 388.71 ***
+***   Chipset Vendor : NVIDIA Corporation ***
+***   Rendering Hardware : GeForce GTX 1080 Ti/PCIe/SSE2 ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.6.0 NVIDIA 388.71 ***
+***   Chipset Vendor : NVIDIA Corporation ***
+***   Rendering Hardware : GeForce GTX 1080 Ti/PCIe/SSE2 ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...
+***   OpenGL Version : 4.6.0 NVIDIA 390.65 ***
+***   Chipset Vendor : NVIDIA Corporation ***
+***   Rendering Hardware : GeForce GTX 1080 Ti/PCIe/SSE2 ***
+Loading OBJ file Meshes/Dwarf_2_Low.obj ...

@@ -1,0 +1,11 @@
+Error opening OBJ file: Meshes/Dwarf_2_Low.obj
+Error opening OBJ file: Meshes/Dwarf_2_Low.obj
+Error opening OBJ file: Meshes/Dwarf_2_Low.obj
+Error opening OBJ file: Meshes/Dwarf_2_Low.obj
+Error opening OBJ file: Meshes/Dwarf_2_Low.obj
+Error opening OBJ file: Meshes/Dwarf_2_Low.obj
+Error opening OBJ file: Meshes/Dwarf_2_Low.obj
+Error opening OBJ file: Meshes/Dwarf_2_Low.obj
+Error opening OBJ file: Meshes/Dwarf_2_Low.obj
+Error opening OBJ file: Meshes/Dwarf_2_Low.obj
+Error opening OBJ file: Meshes/Dwarf_2_Low.obj

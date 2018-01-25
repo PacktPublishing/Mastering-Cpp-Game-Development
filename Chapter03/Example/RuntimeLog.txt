@@ -1,0 +1,16 @@
+*** OpenGL Version: 4.5.13417 Compatibility Profile Context 15.301.1801.1001***
+*** OpenGL Version: 4.5.13417 Compatibility Profile Context 15.301.1801.1001***
+*** OpenGL Version: 4.5.13417 Compatibility Profile Context 15.301.1801.1001***
+*** OpenGL Version: 4.5.13417 Compatibility Profile Context 15.301.1801.1001***
+*** OpenGL Version: 4.5.13417 Compatibility Profile Context 15.301.1801.1001***
+*** OpenGL Version: 4.5.13417 Compatibility Profile Context 15.301.1801.1001***
+*** OpenGL Version: 4.5.13431 Compatibility Profile Context 16.150.2211.0***
+*** OpenGL Version: 4.1.13431 Core Profile Context 16.150.2211.0***
+*** OpenGL Version: 4.1.13431 Core Profile Context 16.150.2211.0***
+*** OpenGL Version: 4.1.13431 Core Profile Context 16.150.2211.0***
+*** OpenGL Version: 4.1.0 NVIDIA 388.71***
+*** OpenGL Version: 4.1.0 NVIDIA 388.71***
+*** OpenGL Version: 4.1.0 NVIDIA 388.71***
+*** OpenGL Version: 4.1.0 NVIDIA 388.71***
+*** OpenGL Version: 4.1.0 NVIDIA 388.71***
+*** OpenGL Version: 4.1.0 - Build 20.19.15.4531***

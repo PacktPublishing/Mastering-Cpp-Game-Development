@@ -1,0 +1,6 @@
+LIBRARY MEMORYMGR
+EXPORTS
+	CMemoryMgr	@1
+	Allocate	@2
+	Deallocate	@3
+	DeallocateAll	@4

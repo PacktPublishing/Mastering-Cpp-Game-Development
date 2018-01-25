@@ -1,0 +1,933 @@
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Compatibility Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.157.3 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13474 Core Profile Context 22.19.162.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13491 Core Profile Context 22.19.662.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13491 Core Profile Context 22.19.662.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13491 Core Profile Context 22.19.662.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13491 Core Profile Context 22.19.662.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13491 Core Profile Context 22.19.662.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13491 Core Profile Context 22.19.662.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13491 Core Profile Context 22.19.662.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13491 Core Profile Context 22.19.662.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13491 Core Profile Context 22.19.662.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13491 Core Profile Context 22.19.662.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13491 Core Profile Context 22.19.662.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13491 Core Profile Context 22.19.662.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13491 Core Profile Context 22.19.662.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13491 Core Profile Context 22.19.662.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13491 Core Profile Context 22.19.662.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13491 Core Profile Context 22.19.662.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13491 Core Profile Context 22.19.662.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13491 Core Profile Context 22.19.662.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13491 Core Profile Context 22.19.662.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13491 Core Profile Context 22.19.662.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13491 Core Profile Context 22.19.662.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.1.13491 Core Profile Context 22.19.662.4 ***
+***   Chipset Vendor : ATI Technologies Inc. ***
+***   Rendering Hardware : AMD Radeon (TM) R9 390 Series ***
+***   OpenGL Version : 4.6.0 NVIDIA 390.65 ***
+***   Chipset Vendor : NVIDIA Corporation ***
+***   Rendering Hardware : GeForce GTX 1080 Ti/PCIe/SSE2 ***

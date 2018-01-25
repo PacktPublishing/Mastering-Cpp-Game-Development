@@ -1,0 +1,10 @@
+D:/WiP/WiP/MasterCpp/Chapter 4/CMakeFiles/ALL_BUILD.dir
+D:/WiP/WiP/MasterCpp/Chapter 4/CMakeFiles/ZERO_CHECK.dir
+D:/WiP/WiP/MasterCpp/Chapter 4/BookEngine/CMakeFiles/BookEngine.dir
+D:/WiP/WiP/MasterCpp/Chapter 4/BookEngine/CMakeFiles/ALL_BUILD.dir
+D:/WiP/WiP/MasterCpp/Chapter 4/TextureExample/CMakeFiles/TextureExample.dir
+D:/WiP/WiP/MasterCpp/Chapter 4/TextureExample/CMakeFiles/ALL_BUILD.dir
+D:/WiP/WiP/MasterCpp/Chapter 4/ModelExample/CMakeFiles/ModelExample.dir
+D:/WiP/WiP/MasterCpp/Chapter 4/ModelExample/CMakeFiles/ALL_BUILD.dir
+D:/WiP/WiP/MasterCpp/Chapter 4/SoundExample/CMakeFiles/SoundExample.dir
+D:/WiP/WiP/MasterCpp/Chapter 4/SoundExample/CMakeFiles/ALL_BUILD.dir

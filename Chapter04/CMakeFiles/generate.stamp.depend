@@ -1,0 +1,24 @@
+# CMake generation dependency list for this directory.
+D:/WiP/WiP/MasterCpp/Chapter 4/CMakeLists.txt
+D:/WiP/WiP/MasterCpp/Chapter 4/CMakeFiles/3.10.2/CMakeSystem.cmake
+A:/CMake/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake
+D:/WiP/WiP/MasterCpp/Chapter 4/CMakeFiles/3.10.2/CMakeCCompiler.cmake
+D:/WiP/WiP/MasterCpp/Chapter 4/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake
+A:/CMake/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake
+A:/CMake/share/cmake-3.10/Modules/CMakeGenericSystem.cmake
+A:/CMake/share/cmake-3.10/Modules/Platform/Windows.cmake
+A:/CMake/share/cmake-3.10/Modules/Platform/WindowsPaths.cmake
+A:/CMake/share/cmake-3.10/Modules/CMakeCInformation.cmake
+A:/CMake/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake
+A:/CMake/share/cmake-3.10/Modules/Platform/Windows-MSVC-C.cmake
+A:/CMake/share/cmake-3.10/Modules/Platform/Windows-MSVC.cmake
+D:/WiP/WiP/MasterCpp/Chapter 4/CMakeFiles/3.10.2/CMakeRCCompiler.cmake
+A:/CMake/share/cmake-3.10/Modules/CMakeRCInformation.cmake
+A:/CMake/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake
+A:/CMake/share/cmake-3.10/Modules/CMakeCXXInformation.cmake
+A:/CMake/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake
+A:/CMake/share/cmake-3.10/Modules/Compiler/MSVC-CXX.cmake
+A:/CMake/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+A:/CMake/share/cmake-3.10/Modules/Platform/Windows-MSVC-CXX.cmake
+A:/CMake/share/cmake-3.10/Modules/Platform/Windows-MSVC.cmake
+A:/CMake/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake

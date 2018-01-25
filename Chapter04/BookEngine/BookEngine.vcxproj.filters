@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\AnimatedSprite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\Animation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\AudioManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\BookEngine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\Camera2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\Camera3D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\GameObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\IGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\IOManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\ImageLoader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\InputManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\Logger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\Mesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\MeshLoader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\PNGdecoder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\ParticleBatch2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\ParticleManager2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\ResourceManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\ScreenList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\ShaderManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\Sprite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\SpriteBatch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\SpriteFont.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\StateList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\TextureCache.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\Timing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\Window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\AnimatedSprite.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\Animation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\AudioEngine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\AudioManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\BookEngine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\Camera2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\Camera3D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\Exception.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\GLTexture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\GameObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\IGame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\IOManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\IScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\IState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\ImageLoader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\InputManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\Logger.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\Mesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\MeshLoader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\PNGdecoder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\ParticleBatch2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\ParticleManager2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\ResourceManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\ScreenList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\ShaderManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\Sprite.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\SpriteBatch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\SpriteFont.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\StateList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\TextureCache.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\Timing.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\UnitConverter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\Vertex2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\Window.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\WiP\WiP\MasterCpp\Chapter 4\BookEngine\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2D95F635-1BC8-3B16-BE34-7C9EC746676F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{093BD5C4-8CB7-35C6-BB0B-E90FD268F74B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
