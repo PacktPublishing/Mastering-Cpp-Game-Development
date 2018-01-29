@@ -28,13 +28,13 @@ int main(int argc, char** argv)
 ## Software and Hardware Requirements
 
 To get the most out of the examples and development experience, it is recommended you to have a relatively newer development device with at least the following things:
- CPU: 4 cores
- Memory: 8 GB RAM
- Disk space: 40 GB
+* CPU: 4 cores
+* Memory: 8 GB RAM
+* Disk space: 40 GB
 The examples (with a few exceptions) have been designed to run on both macOS and Windows PC devices.
 To follow along you should have the following software installed:
- PC: Visual Studio 2015 Community or better
- macOS: XCode 8.x or better.
+* PC: Visual Studio 2015 Community or better
+* macOS: XCode 8.x or better.
 Other software needed will be described as required.
 
 ## Related Products
