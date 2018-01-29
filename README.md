@@ -40,8 +40,8 @@ To follow along you should have the following software installed:
 Other software needed will be described as required.
 
 ## Related Products
-* [Python GUI Programming Cookbook - Second Edition](https://www.packtpub.com/application-development/python-gui-programming-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_content=9781787129450)
+* [C++ Game Development Cookbook](https://www.packtpub.com/game-development/c-game-development-cookbook?utm_source=github&utm_medium=repository&utm_content=9781785882722)
 
-* [Modern Python Cookbook](https://www.packtpub.com/application-development/modern-python-cookbook?utm_source=github&utm_medium=repository&utm_content=9781786469250)
+* [Beginning C++ Game Programming](https://www.packtpub.com/game-development/beginning-c-game-programming?utm_source=github&utm_medium=repository&utm_content=9781786466198)
 
-* [Python Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning?utm_source=github&utm_medium=repository&utm_content=9781783555130)
+* [Mastering SFML Game Development](https://www.packtpub.com/game-development/mastering-sfml-game-development?utm_source=github&utm_medium=repository&utm_content=9781786469885)
